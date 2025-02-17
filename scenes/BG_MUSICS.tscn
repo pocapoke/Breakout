@@ -1,0 +1,18 @@
+[gd_scene load_steps=5 format=3 uid="uid://dc0fcj217j21n"]
+
+[ext_resource type="AudioStream" uid="uid://bigppgdxjy04x" path="res://assets/Sounds and Musics/8-bit-arcade-mode-158814.mp3" id="1_odbn4"]
+[ext_resource type="AudioStream" uid="uid://ciecbg0y0e2is" path="res://assets/Sounds and Musics/8-bit-retro-game-music-233964.mp3" id="2_nlwr8"]
+[ext_resource type="AudioStream" uid="uid://dfo4n066nmcen" path="res://assets/Sounds and Musics/flat-8-bit-gaming-music-instrumental-211547.mp3" id="3_er2e1"]
+
+[sub_resource type="AudioStreamPlaylist" id="AudioStreamPlaylist_0xvs0"]
+resource_name = "BG Musics"
+shuffle = true
+stream_count = 3
+stream_0 = ExtResource("1_odbn4")
+stream_1 = ExtResource("2_nlwr8")
+stream_2 = ExtResource("3_er2e1")
+
+[node name="BG_musics" type="AudioStreamPlayer"]
+process_mode = 3
+stream = SubResource("AudioStreamPlaylist_0xvs0")
+autoplay = true

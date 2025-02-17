@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scenes\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scenes\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|c:\\users\\pocat\\onedrive\\documents\\github\\breakout\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327E5D4-7F4E-4503-8E2C-F78B94AD2204}|Breakout.csproj|solutionrelative:scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeadZone.cs",
+              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\DeadZone.cs",
+              "RelativeDocumentMoniker": "scripts\\DeadZone.cs",
+              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\DeadZone.cs",
+              "RelativeToolTip": "scripts\\DeadZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:51:47.275Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ball.cs",
-              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scenes\\Ball.cs",
-              "RelativeDocumentMoniker": "scenes\\Ball.cs",
-              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scenes\\Ball.cs",
-              "RelativeToolTip": "scenes\\Ball.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Ball.cs",
+              "RelativeToolTip": "scripts\\Ball.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T08:35:57.05Z",
+              "WhenOpened": "2025-02-14T06:35:14.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\GameManager.cs",
+              "RelativeToolTip": "scripts\\GameManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:34:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Settings.cs",
+              "RelativeDocumentMoniker": "scripts\\Settings.cs",
+              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Settings.cs",
+              "RelativeToolTip": "scripts\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:27:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Menu.cs",
+              "RelativeToolTip": "scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:49:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Paddle.cs",
               "DocumentMoniker": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Paddle.cs",
               "RelativeDocumentMoniker": "scripts\\Paddle.cs",
               "ToolTip": "C:\\Users\\pocat\\OneDrive\\Documents\\GitHub\\breakout\\scripts\\Paddle.cs",
               "RelativeToolTip": "scripts\\Paddle.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:55:33.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T07:55:33.129Z"
             }
           ]
         }

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dfo4n066nmcen"
+path="res://.godot/imported/flat-8-bit-gaming-music-instrumental-211547.mp3-5c7e908ba1732289c52ee57a35050b83.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds and Musics/flat-8-bit-gaming-music-instrumental-211547.mp3"
+dest_files=["res://.godot/imported/flat-8-bit-gaming-music-instrumental-211547.mp3-5c7e908ba1732289c52ee57a35050b83.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

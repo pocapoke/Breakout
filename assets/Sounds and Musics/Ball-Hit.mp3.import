@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://fenhunymhclv"
+path="res://.godot/imported/Ball-Hit.mp3-d5089228708ce6b51cd1232c708bb939.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds and Musics/Ball-Hit.mp3"
+dest_files=["res://.godot/imported/Ball-Hit.mp3-d5089228708ce6b51cd1232c708bb939.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cyhm5ivmk4mwu"
+path="res://.godot/imported/Brick-Broken.wav-5b87c2610ce65d3a7b03757be6c35383.sample"
+
+[deps]
+
+source_file="res://assets/Sounds and Musics/Brick-Broken.wav"
+dest_files=["res://.godot/imported/Brick-Broken.wav-5b87c2610ce65d3a7b03757be6c35383.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
